@@ -1,0 +1,35 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    margin-top: 70px;
+}
+
+#banner{
+    height: 70px;
+    background-color: orange;
+    display: flex;
+    justify-content: space-around;
+    box-shadow: 1px 1px 12px #555;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+}
+
+html{
+    font-family: 'Arimo', sans-serif;
+}
+
+a:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+a:active {
+    color: #ffffff;
+    background-color: transparent; 
+ }
+
+a{
+      text-decoration: none;
+ }
